@@ -1,4 +1,5 @@
-# Anpacker test
+# Anpacker project test
+
 This project was created to build AWS AMIs using packer, ansible and terraform tools.
 
 Run packer build and use created AMIs image for launching instances in EC2.
